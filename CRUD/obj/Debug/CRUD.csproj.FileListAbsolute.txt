@@ -1,0 +1,11 @@
+C:\Users\ezeki\OneDrive\Desktop\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\ezeki\OneDrive\Desktop\CRUD\bin\Debug\CRUD.exe
+C:\Users\ezeki\OneDrive\Desktop\CRUD\bin\Debug\CRUD.pdb
+C:\Users\ezeki\OneDrive\Desktop\CRUD\obj\Debug\CRUD.csproj.AssemblyReference.cache
+C:\Users\ezeki\OneDrive\Desktop\CRUD\obj\Debug\CRUD.csproj.SuggestedBindingRedirects.cache
+C:\Users\ezeki\OneDrive\Desktop\CRUD\obj\Debug\CRUD.Form1.resources
+C:\Users\ezeki\OneDrive\Desktop\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+C:\Users\ezeki\OneDrive\Desktop\CRUD\obj\Debug\CRUD.csproj.GenerateResource.cache
+C:\Users\ezeki\OneDrive\Desktop\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\ezeki\OneDrive\Desktop\CRUD\obj\Debug\CRUD.exe
+C:\Users\ezeki\OneDrive\Desktop\CRUD\obj\Debug\CRUD.pdb
